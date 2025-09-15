@@ -1,4 +1,4 @@
-# R224774h Joshua Mukonyora Assignment 2 Parallel...C Prog Carry
+# Brandon Bvukurusi R221403h Assignment 2 Parallel...C Prog Carry
 # Question 1: Vehicle class hierarchy
 
 
@@ -157,4 +157,5 @@ if __name__ == "__main__":
     print(text_handler.write("Hello World"))
     print(binary_handler.read())
     print(binary_handler.write(b'101010'))
+
 
